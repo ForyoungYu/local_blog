@@ -1,0 +1,22 @@
+/* icon-telegram */
+@font-face {
+	font-family: "iconfont"; /* Project id 3324430 */
+	src: url("//at.alicdn.com/t/font_3324430_idvprkqnza.woff2?t=1649815782932")
+			format("woff2"),
+		url("//at.alicdn.com/t/font_3324430_idvprkqnza.woff?t=1649815782932")
+			format("woff"),
+		url("//at.alicdn.com/t/font_3324430_idvprkqnza.ttf?t=1649815782932")
+			format("truetype");
+}
+
+.iconfont {
+	font-family: "iconfont" !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-telegram:before {
+	content: "\e731";
+}
