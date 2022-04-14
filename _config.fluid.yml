@@ -321,8 +321,8 @@ navbar:
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
-    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     - { key: "札记", link: "/notes/", icon: "iconfont icon-bookmark-fill" }
+    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
@@ -867,7 +867,7 @@ about:
   banner_img: /img/default.png
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  subtitle:
+  subtitle: 关于我
   avatar: /img/avatar.png
   name: "Foryoung"
   intro: "热爱生活 热爱技术"
@@ -876,7 +876,8 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/ForyoungYu", tip: "GitHub" }
     - { class: "iconfont icon-wechat-fill", qrcode: "/img/wechat.jpg" }
-    - { class: "iconfont icon-telegram", link: "https://t.me/zhangxinxin1", tip: "Telegram" }
+    - { class: "iconfont icon-telegram-fill", link: "https://t.me/zhangxinxin1", tip: "Telegram" }
+    - { class: "iconfont icon-twitter-fill", link: "https://twitter.com/ForyoungYu", tip: "Twitter" }
 
 
 #---------------------------
