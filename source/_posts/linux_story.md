@@ -1,7 +1,8 @@
 ---
 title: "💻我与Linux的故事"
 date: 2022-04-11
-index_img: /img/linux_story/linux.jpeg
+index_img: /img/linux_story/972360775.jpg
+banner_img: /img/linux_story/IMG_20220207_000016.jpg
 tags:
   - Linux
 categories:
@@ -62,7 +63,7 @@ Manjaro 我是不再考虑了，每次开机玄学卡住。于是 Linux Mint 和
 
 这段时间我也花了大量时间去美化桌面，包括 Opensuse 和 Mint。后来由于意识到花在这上面的时间太多，就不再美化了，使用 Mint 默认的原生桌面。
 
-![即使是Mint我也配置成Mac的界面](/img/linux_story/IMG_20220207_000016.jpg)
+![即便是Mint我也配置成Mac的界面](/img/linux_story/IMG_20220207_000016.jpg)
 
 到了研一寒假我基本上不再搞美化了，全身心投入到技能的提高上面，因此节省出来了大量的时间可以让我配置 Vim 插件以及读论文。这段时间也是我对前端感兴趣的开始。
 
@@ -81,7 +82,7 @@ Linux Mint 确实不错，包全、稳定、显卡支持好就是界面朴素了
 
 在安装上 Fedora 上之后我发现并不是这样，相反 Fedora 的更新频率很高有很稳定，几乎满足了我对完美 Linux 的前三条。之前也有用过 Fedora，看着别人在 CSDN 上写的教程尝试安装显卡驱动却都以失败告终，这次安装驱动我不再去看 CSDN 了，按照 [Fedora 的官方文档](https://docs.fedoraproject.org/en-US/quick-docs/how-to-set-nvidia-as-primary-gpu-on-optimus-based-laptops/)去安，结果居然安装成功。这正是我梦寐以求的完美 Linux，终于被我找到了。这也让我知道了看官方文档的重要性。
 
-![如今的Fedora](/img/linux_story/fedora.png)
+![如今我使用的Fedora](/img/linux_story/fedora.png)
 
 ## 💡 后续
 
