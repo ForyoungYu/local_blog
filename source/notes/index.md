@@ -4,9 +4,22 @@ subtitle: 简单记录
 date: 2022-04-12 19:03:28
 ---
 
+<style>
+cite p{
+	text-align: right;
+}
+</style>
+
 <h1 style="text-align:center">札记 & 留言板</h1>
 
 ---
+
+## 2022-4-21
+
+<cite class="c1">
+人生有两出悲剧：一是万念俱灰，另一是踌躇满志。
+<p>——萧伯纳</p>
+</cite>
 
 ## 2022-4-14
 
